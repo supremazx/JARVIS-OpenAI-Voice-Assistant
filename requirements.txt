@@ -3,3 +3,4 @@ gtts
 pygame
 SpeechRecognition
 PyAudio
+playsound
